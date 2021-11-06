@@ -7,3 +7,4 @@ public interface LinkRefreshCallback {
 
 	public boolean isValidLink(HttpMetadata metadata);
 }
+$
